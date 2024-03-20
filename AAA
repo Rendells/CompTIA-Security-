@@ -1,0 +1,48 @@
+Authentication - The process of validating that an entity (user, application, or system) is who or what they claim to be
+Authorization - The process of granting an authenticated entity permission to access a resource or perform aspecific function
+Accounting - Is generally implemented for two use cases:
+ - Monitoring, visibility, and reporting
+ - Billing, chargeback, and reporting
+Authoriziation Models: ABDAC
+- Attribute-based dynamic access control (ABDAC) combines the princples of attribute-based access control (ABAC) with dynamic access control (DAC)
+It considers dynamic factors such as risk assessment, user attributes, resources attributes, and contextual information to make access control decisicons in real time
+
+Authorization Models: Rule-based
+- rule-based access control (RBAC): RBAC users rules to determine access
+- access control rules define conditions.
+
+SECURITY CONTROL TYPES
+- PREVENTATIVE Stops an attacker form successfully conductiing an exploit or adcanced persistent threat
+- DETERRENT Discourages an attacker from initiating or continuing an attack
+- DETECTIVE Identifies an attack that is occurring as well as the steps of the kill chain
+- CORRECTIVE Restores a system to state before the negative event occured; can simplu rectify or correct an identified problem
+- COMPENSATING Aids controls that are already in place provides a tempoaray stopgap solution
+- DIRECTIVE Mandatory policies and regulations taht are in place to maintain consistency and compliance
+
+
+Which type of security control is made up of mandatory policies and regulations that are in place to maintain consistency and compliance?
+* Directive
+
+Which of these are common ways to authenticate people?
+* A password, PIN, or passphrase they know
+* A smart card token or fob that they possess
+* A bimetric attribute
+* A QR or other code they present on a device
+
+Which security goal controls an attacker's ability to get unauthorized access to data or information from an application or system?
+* Cofidentiality
+
+What is one way to enable authentication of non-traditional network endpoints such as smart card readers, HVAC systems, medical equipment, and IP-enabled door locks?
+* Endpoint fingerprinting
+
+What is a strict mathematical model where access to resources is determined by the system based on predefined security labels and rules?
+* MAC
+
+Which category of controls supports ongoing maintenance, due care, and continual improvement such as conducting tested patch management?
+* Operational
+
+Which security control enforces the inability of a subject to deny that they participated in a digital transaction, agreement, contract, or communication such as an email?
+* Non-repudiation
+
+What is the process of granting an authenticated entity permission to access a resource or perform a specific function?
+* Authorization
