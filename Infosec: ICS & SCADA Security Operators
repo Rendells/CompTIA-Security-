@@ -1,0 +1,35 @@
+In the next few minutes, we will learn about industrial control system (ICS) and supervisory control and data acquisition system (SCADA) security.
+Attackers researched us and the sofware we use in our control system, it could of happen to any of us
+They can attack anyone which they did and attacked a software supplier with a spear phising attack
+- keep any informaiton about our systems out of the public domain (classified)
+- Teach our suppliers and our stafff how to spot phishing attacks and how to report right away
+- apply the princple of the leat privillage and only give people access to what they absolutely need and remove admin rights where not necessary
+(Access to our SCADA, or ICS system, third-parties is a major part of the problem
+- secure the way we connot to our activity with correct programs. Segment the ICS network off the corporate network and configure the firewall to prevent any direct connections between the two networks and block maclious files.
+work with the business to replace outdated technology and patch vulnerabilities as often as practical.
+Implement secure architecture and secure coding practices we are working with our ICS vendor to put in real-time monitoring of the software 
+
+- Dont trust any links or attachments in emails you haven't expected, even from people you know.
+- Be aware of phone calls, text messages, or emails asking you for informaiton. Be aware of malicious software spread via infected websits or external devices, such as USB sticks.
+- Don't ever share your passwords with anyone and write it down
+- Sharing isn't caring, Ensure buildings are secured and only authorised people have access
+- Escort all venders and visitors and ask strangers to wait at reception for their host. Keep all sensitive infornmamtion locked away
+- Third part connections any third party connections need to be authorised first, use secure VPN technology and apply multi-factor authentication
+- apply all antivirus and software updates, dont connect external devices, removable computers and USB sticks to the control network.
+
+What is one of the ways a cybercriminal can target an employee or contractor to gain access to our industrial control systems?
+ - Cybercriminals make use of spear phishing or phishing to install malware on an employee or contractor’s device to access the industrial control system.
+
+We should exercise caution when it comes to:
+ - Beware of phone calls, text messages, or emails asking you for information as well as unexpected emails. Also be aware of external devices, such as USB drives that could be used to spread malicious software.
+
+Falling victim to an industrial control system attack could result in:
+ - Falling victim to an industrial control system attack could result in financial losses, a different end product or system downtime.
+
+In the interest of organisational security, what are some physical security measures that you should apply in your day-to-day office activities?
+ - In the interest of organisational security escort visitors and contractors, keep sensitive information locked away and do not connect external devices to the control network.
+
+Why have industrial control systems become targets for cybercriminals?
+ - Industrial control systems have become high-value targets for cybercriminals looking to disrupt business operations or even compromise critical infrastructure.
+
+
